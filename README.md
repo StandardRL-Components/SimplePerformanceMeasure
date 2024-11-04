@@ -7,4 +7,4 @@ Simple script to measure the performance of a an application on Raspberry Pi in 
 
 `python3 measure.py`
 
-Press Control+C to stop execution. While the script is running, measurements are made every 0.5 seconds. When finished, results are output to `output.csv`.
+Press Control+C to stop execution. While the script is running, measurements are made every 0.5 seconds. When finished, results are output to `results.csv`.
